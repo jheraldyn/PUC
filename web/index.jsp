@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 4/03/2016, 10:01:36 AM
-    Author     : JHERAL
+    Author     : JHERALDYN
 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
