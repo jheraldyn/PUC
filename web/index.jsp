@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 4/03/2016, 10:01:36 AM
-    Author     : NEMESIO
+    Author     : JHERAL
 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link href="css/estilo.css" rel="stylesheet" type="text/css"/>
+        <link href="css/estilo1_1.css" rel="stylesheet" type="text/css"/>
         <script src="js/jquery.js" type="text/javascript"></script>
         <script src="js/micodigo.js" type="text/javascript"></script>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">

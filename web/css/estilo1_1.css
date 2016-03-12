@@ -1,0 +1,41 @@
+body{
+	background-color: #FFF9E5;
+	font-family:"Century Gothic";
+	font-size: small;
+}
+
+label, b {display:inline-block;width: 200px;margin-bottom: 5px;}
+
+input{margin-bottom: 5px;}
+label.error{color:#A45B13;width: 500px;}
+
+h1,th{
+	background-color: #381F00;
+	color:#CCCCCC;
+	text-align: center;
+}
+
+form{
+	display: block;
+	padding:30px;
+	width: 550px;
+	border: 4px black solid;
+	font-size: small;
+	box-shadow: 3px 3px 5px gray;
+	background-color: #AAAAAA;
+}
+
+.renglon{
+	background-color: #CCCCCC;
+}
+
+.renglon:hover{
+	color:white;
+        background-color: black;
+}
+
+
+
+table{
+    border-collapse: collapse;
+}
